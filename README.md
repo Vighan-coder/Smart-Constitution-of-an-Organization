@@ -16,3 +16,7 @@ The goal is to provide organizations with a digital constitution that is transpa
 - **Role-Based Permissions:** Allow more granular permissions (e.g., multiple admins, proposal creators).
 - **Version Control:** Maintain versions of the constitution for historical reference.
 - **Integration with DAO Tools:** Integrate with existing DAO platforms like Aragon or Snapshot for extended functionality.
+
+## Contract Details
+0x4251684902a3ECDDc4Aa32dF4f2e1cD20B3a1c03
+![image](https://github.com/user-attachments/assets/08660b29-6dab-4fdc-ab64-e3d65561f591)
